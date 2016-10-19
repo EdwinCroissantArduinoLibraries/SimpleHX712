@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map   SimpleHX712
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SimpleHX712				KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+bool					KEYWORD2
+getStatus				KEYWORD2
+setGain					KEYWORD2
+getGain					KEYWORD2
+setAlpha				KEYWORD2
+getAlpha				KEYWORD2
+getRaw					KEYWORD2
+tare					KEYWORD2
+setTare					KEYWORD2
+getTare					KEYWORD2
+getRawMinusTare			KEYWORD2
+adjustTo				KEYWORD2
+getAdjuster				KEYWORD2
+setAdjuster				KEYWORD2
+getAdjusted				KEYWORD2
+powerDown				KEYWORD2
+powerUp					KEYWORD2
+setReadsUntilValid		KEYWORD2
+getReadsUntilValid		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
